@@ -72,3 +72,7 @@ This dashboard provides detailed and visual insights to help the Sales Manager m
 ### Re-engage One-Time Buyers
 - With 54% of customers making only one purchase, use personalized follow-ups such as abandoned cart reminders or return discounts (e.g., 10% off the next order).
 - Consider “Buy Again – Get a Gift” offers to turn one-time buyers into repeat customers.
+
+## Conclusion
+
+The analysis of Shopify sales data reveals that the business is currently driven by a small group of high-value customers, with a relatively high average order value and customer lifetime value. However, the high percentage of one-time buyers indicates missed opportunities in customer retention. To sustain growth and increase profitability, the business should focus on strengthening engagement with Repeat Customers while implementing strategies to convert Single-Order Customers into returning buyers. Additionally, targeted regional marketing in top-performing cities, optimization of mid-day sales peaks, and improved usage of alternative payment methods can further enhance revenue performance. These strategic actions will support long-term growth through data-driven, customer-focused decision-making.
