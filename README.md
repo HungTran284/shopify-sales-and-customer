@@ -18,7 +18,7 @@ This dashboard analyzes Shopify weekly sales data to uncover meaningful insights
 ## Analysis Context:
 
 - **Stakeholder**: Sales Department Manager
-- **Report Date**: March 27, 2035
+- **Report Date**: March 27, 2025
 
 This dashboard provides detailed and visual insights to help the Sales Manager make strategic decisions for optimizing sales efforts and nurturing key customer relationships.
 <img width="1357" height="798" alt="image" src="https://github.com/user-attachments/assets/7d660cdd-d657-4ebc-a172-97704b201af5" />
@@ -49,16 +49,16 @@ This dashboard provides detailed and visual insights to help the Sales Manager m
 
 ## Recommendations:
 
-### Increase High-Value Segments (Champions & Repeat Buyers)
+### Increase High Value Segments (Champions & Repeat Buyers)
 - Aim to grow the Repeat Customer segment (currently at 46%) to improve purchase frequency and Lifetime Value.
 - Implement loyalty initiatives such as post-purchase vouchers, birthday discounts, or membership perks to retain high-spending customers (Net Avg Order Value: $562.63).
 
 ### Boost Mid-Day Conversions
 - Since peak purchasing occurs between 10 AM – 4 PM, schedule marketing campaigns and flash sales during these hours.
-- Use urgency-driven messages like “Only for the next 2 hours” to increase conversions.
+- Use time scarcity campaign by sending messages like “Only for the next 2 hours” to increase conversions.
 
 ### Optimize Top-Selling Product Lines
-- Focus on the best-performing product categories like Running Shoes, Tennis Shoes, and Walking Shoes.
+- Focus on the best-performing product categories like Running Shoes, Tennis Shoes, Walking Shoes. With Cycling Shoes and Climbing Shoes, we can check the geograph of each city to promote the suitable campaign, e.g. if the city that is mountainous, the Climbing Shoes will be prefered, so we can discount or give the voucher when customer buy ones, then it will attract more customer.
 - Launch cross-sell campaigns with complementary items (e.g., accessories) or create bundles to increase basket size.
 
 ### Localized Marketing for Top Cities
