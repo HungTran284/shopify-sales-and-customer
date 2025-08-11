@@ -57,7 +57,7 @@ This dashboard provides detailed and visual insights to help the Sales Manager m
 - Since peak purchasing occurs between 10 AM – 4 PM, schedule marketing campaigns and flash sales during these hours.
 - Use time scarcity campaign by sending messages like “Only for the next 2 hours” to increase conversions.
 
-### Optimize Top-Selling Product Lines
+### Optimize Top Selling Product Lines
 - Focus on the best-performing product categories like Running Shoes, Tennis Shoes, Walking Shoes. With Cycling Shoes and Climbing Shoes, we can check the geograph of each city to promote the suitable campaign, e.g. if the city that is mountainous, the Climbing Shoes will be prefered, so we can discount or give the voucher when customer buy ones, then it will attract more customer.
 - Launch cross-sell campaigns with complementary items (e.g., accessories) or create bundles to increase basket size.
 
@@ -69,10 +69,10 @@ This dashboard provides detailed and visual insights to help the Sales Manager m
 - Shopify Payments accounts for 58% of all orders; alternative methods like Amazon Pay and Manual Payments are underutilized.
 - Encourage their use with method-based promotions or offer Gift Cards as referral tools to attract new customers.
 
-### Re-engage One-Time Buyers
-- With 54% of customers making only one purchase, use personalized follow-ups such as abandoned cart reminders or return discounts (e.g., 10% off the next order).
+### Re-engage Single Order Buyers
+- With 54% of customers making only one purchase, use personalized such as abandoned cart reminders or return discounts (e.g., 10% off the next order).
 - Consider “Buy Again – Get a Gift” offers to turn one-time buyers into repeat customers.
 
 ## Conclusion
 
-The analysis of Shopify sales data reveals that the business is currently driven by a small group of high-value customers, with a relatively high average order value and customer lifetime value. However, the high percentage of one-time buyers indicates missed opportunities in customer retention. To sustain growth and increase profitability, the business should focus on strengthening engagement with Repeat Customers while implementing strategies to convert Single-Order Customers into returning buyers. Additionally, targeted regional marketing in top-performing cities, optimization of mid-day sales peaks, and improved usage of alternative payment methods can further enhance revenue performance. These strategic actions will support long-term growth through data-driven, customer-focused decision-making.
+The analysis of Shopify sales data reveals that the business is currently driven by a small group of high value customers, with a relatively high average order value and customer lifetime value. However, the high percentage of one time buyers indicates missed opportunities in customer retention. To sustain growth and increase profitability, the business should focus on strengthening engagement with Repeat Customers while implementing strategies to convert Single Order Customers into returning buyers. Additionally, targeted regional marketing in top-performing cities, optimization of mid-day sales peaks, and improved usage of alternative payment methods can further enhance revenue performance. These strategic actions will support long term growth through data-driven, customer-focused decision-making.
