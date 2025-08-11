@@ -61,10 +61,6 @@ This dashboard provides detailed and visual insights to help the Sales Manager m
 - Focus on the best performing product categories like Running Shoes, Tennis Shoes, Walking Shoes. With Cycling Shoes and Climbing Shoes, we can check the geograph of each city to promote the suitable campaign, e.g. if the city that is mountainous, the Climbing Shoes will be prefered, so we can discount or give the voucher when customer buy ones, then it will attract more customer.
 - Launch cross-sell campaigns with complementary items (e.g., accessories) or create bundles to increase basket size.
 
-### Localized Marketing for Top Cities
-- Prioritize high performing regions such as Washington, Houston, and New York in your geo-targeted campaigns.
-- Customize promotional content for these cities to enhance relevance and drive stronger engagement.
-
 ### Promote Alternative Payment Methods
 - Shopify Payments accounts for 58% of all orders; alternative methods like Amazon Pay and Manual Payments are underutilized.
 - Encourage their use with method-based promotions or offer Gift Cards as referral tools to attract new customers.
